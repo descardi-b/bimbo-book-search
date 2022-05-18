@@ -16,8 +16,10 @@ The Bimbo Book Search utilizes the following technologies:
 
 ### How To Use It
 
-Simply run the app on <a href="https://dry-scrubland-46483.herokuapp.com/">Heroku</a>.<br/>
+Simply run the app on <a href="https://salty-mesa-30136.herokuapp.com/">Heroku</a>.<br/>
 
 Then, create your own account or login. Once you're registered, you can search, add, and remove to your heart's content.
 
 ### See It In Action
+
+<img src="./images/book-search.gif"/>
